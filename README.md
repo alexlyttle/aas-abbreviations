@@ -1,16 +1,15 @@
-# ads-journal-abbreviations
+# aas-abbreviations
 
-An `abbreviations.json` file using the [NASA ADS Bibliographic Codes: Journal Abbreviations](https://adsabs.harvard.edu/abs_doc/journals1.html).
+An `abbreviations.json` file using the [AAS Journal Abbreviations](https://journals.aas.org/aastexguide/#abbreviations).
 
 To use this with Zotero, copy the `abbreviations.json` file into your `Zotero` home directory.
 
-This extends the default Zotero abbreviations file with the bibliographic codes used by NASA ADS.
+This extends the default Zotero abbreviations file with the abbreviations used by AAS and some other journals.
 
 To update the `abbreviations.json` file, run `update_abbreviations.py`.
 
 ```bash
-git clone https://github.com/alexlyttle/ads-journal-abbreviations.git
-cd ads-journal-abbreviations
-pip install -r requirements.txt  # install required python packages
+git clone https://github.com/alexlyttle/aas-abbreviations.git
+cd aas-abbreviations
 python update_abbreviations.py   # updates abbreviations.json file
 ```
