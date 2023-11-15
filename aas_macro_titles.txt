@@ -1,9 +1,9 @@
-# Source: https://ui.adsabs.harvard.edu/help/actions/journal-macros
+# Adapted from: https://ui.adsabs.harvard.edu/help/actions/journal-macros
 # TeX Macro Journal Name
 \aas	American Astronomical Society Meeting Abstracts
 \aj	Astronomical Journal
 \actaa	Acta Astronomica
-\araa	Annual Review of Astron and Astrophysis
+\araa	Annual Review of Astronomy and Astrophysics
 \apj	Astrophysical Journal
 \apjl	Astrophysical Journal, Letters
 \apjs	Astrophysical Journal, Supplement
@@ -11,15 +11,15 @@
 \apss	Astrophysics and Space Science
 \aap	Astronomy and Astrophysics
 \aapr	Astronomy and Astrophysics Reviews
-\aaps	Astronomy and Astrophysics, Supplement
+\aaps	Astronomy and Astrophysics Supplement Series
 \aplett	Astrophysics Letters
 \apspr	Astrophysics Space Physics Research
 \azh	Astronomicheskii Zhurnal
-\baas	Bulletin of the AAS
+\baas	Bulletin of the American Astronomical Society
 \bain	Bulletin Astronomical Institute of the Netherlands
 \caa	Chinese Astronomy and Astrophysics
 \cjaa	Chinese Journal of Astronomy and Astrophysics
-\dps	American Astronomical Society/Division for Planetary Sciences Meeting Abstracts
+\dps	American Astronomical Society Division for Planetary Sciences Meeting Abstracts
 \fcp	Fundamental Cosmic Physics
 \gca	Geochimica Cosmochimica Acta
 \grl	Geophysics Research Letters
@@ -30,18 +30,18 @@
 \jcp	Journal of Chemical Physics
 \jgr	Journal of Geophysics Research
 \jqsrt	Journal of Quantitiative Spectroscopy and Radiative Transfer
-\jrasc	Journal of the RAS of Canada
+\jrasc	Journal of the Royal Astronomical Society of Canada
 \maps	Meteoritics and Planetary Science
-\memras	Memoirs of the RAS
+\memras	Memoirs of the Royal Astronomical Society
 \memsai	Mem. Societa Astronomica Italiana
-\mnras	Monthly Notices of the RAS
+\mnras	Monthly Notices of the Royal Astronomical Society
 \na	New Astronomy
 \nar	New Astronomy Review
 \nat	Nature
 \nphysa	Nuclear Physics A
-\pasa	Publications of the Astron. Soc. of Australia
-\pasp	Publications of the ASP
-\pasj	Publications of the ASJ
+\pasa	Publications of the Astronomical Society of Australia
+\pasp	Publications of the Astronomical Society of the Pacific
+\pasj	Publications of the Astronomical Society of Japan
 \physrep	Physics Reports
 \physscr	Physica Scripta
 \planss	Planetary Space Science
@@ -51,9 +51,9 @@
 \prd	Physical Review D
 \pre	Physical Review E
 \prl	Physical Review Letters
-\procspie	Proceedings of the SPIE
+\procspie	Proceedings of the Society of Photo-Optical Instrumentation Engineers
 \psj	Planetary Science Journal
-\qjras	Quarterly Journal of the RAS
+\qjras	Quarterly Journal of the Royal Astronomical Society
 \rmxaa	Revista Mexicana de Astronomia y Astrofisica
 \skytel	Sky and Telescope
 \solphys	Solar Physics
