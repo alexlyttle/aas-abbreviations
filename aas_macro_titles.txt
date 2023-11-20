@@ -5,8 +5,8 @@
 \actaa	Acta Astronomica
 \araa	Annual Review of Astronomy and Astrophysics
 \apj	Astrophysical Journal
-\apjl	Astrophysical Journal, Letters
-\apjs	Astrophysical Journal, Supplement
+\apjl	Astrophysical Journal Letters
+\apjs	Astrophysical Journal Supplement Series
 \ao	Applied Optics
 \apss	Astrophysics and Space Science
 \aap	Astronomy and Astrophysics
